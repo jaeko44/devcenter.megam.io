@@ -94,18 +94,18 @@ Java's default build pack get's going by kicking of maven. We plan to support `a
 
 Then the below UI will be open
 
-![](/content/images/2016/05/1-2.png)
+![](http://devcenter.megam.io/content/images/2016/05/1-2.png)
 
 Select the Manager App.It asks User Name and Password
 `Username and password is "megam"`
 
-![](/content/images/2016/05/j2.png)
+![](http://devcenter.megam.io/content/images/2016/05/j2.png)
 
 Here you will click the `jenkins` link.
 * (or) the url to launch jenkins
 `http://IP_ADDRESS:8080/jenkins`
 
-![](/content/images/2016/05/j3.png)
+![](http://devcenter.megam.io/content/images/2016/05/j3.png)
 
 
 ### Conclusion

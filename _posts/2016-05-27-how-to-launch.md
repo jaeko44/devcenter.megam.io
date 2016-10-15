@@ -64,7 +64,7 @@ successfully launched the vm.
 
 You can access your web page using http://localhost:5984/
 
-![](/content/images/2016/05/s2-2.jpg)
+![](http://devcenter.megam.io/content/images/2016/05/s2-2.jpg)
 
 ### Conclusion
 

@@ -95,7 +95,7 @@ The build pack for PHP
 You can access your web page using http://IP_ADDRESS/current
 
 
-{<1>}![](/content/images/2016/05/mmm.png)
+{<1>}![](http://devcenter.megam.io/content/images/2016/05/mmm.png)
 
 ### Conclusion
 

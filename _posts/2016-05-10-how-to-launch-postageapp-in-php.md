@@ -89,7 +89,7 @@ We use a default PHP build pack using our super cool chef-repo.
 
 You can access your web page using http://IP_ADDRESS/current
 
-![](/content/images/2016/05/postage4.png)
+![](http://devcenter.megam.io/content/images/2016/05/postage4.png)
 
 
 Voila ! Your App is up to date.

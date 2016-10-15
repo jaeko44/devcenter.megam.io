@@ -74,7 +74,7 @@ ensure that your git repository have the start script file as follows.
 You can access your web page using http://IP_ADDRESS/9001
 
 
-![](/content/images/2016/05/node.png)
+![](http://devcenter.megam.io/content/images/2016/05/node.png)
 
 ###Conclusion
 

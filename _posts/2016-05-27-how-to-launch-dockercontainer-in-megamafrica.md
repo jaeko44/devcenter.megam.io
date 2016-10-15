@@ -68,7 +68,7 @@ You can access your web page using http://IP_ADDRESS:8080
 
 
 
-![](/content/images/2016/05/jenkins1.png)
+![](http://devcenter.megam.io/content/images/2016/05/jenkins1.png)
 
 #### Conclusion
 
