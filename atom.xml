@@ -4,8 +4,8 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>VirtEngine - Development Center</title>
-  <link href="https://devcenter.megam.io/atom.xml" rel="self"/>
-  <link href="https://devcenter.megam.io/"/>
+  <link href="https://devcenter..virtengine.com.io/atom.xml" rel="self"/>
+  <link href="https://devcenter..virtengine.com.io/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>https://devcenter.virtengine.com/</id>
   <author>
@@ -15,9 +15,9 @@ layout: null
   {% for post in site.posts limit:10 %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="https://devcenter.megam.io{{ post.url }}"/>
+    <link href="https://devcenter..virtengine.com.io{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>https://devcenter.megam.io{{ post.id }}</id>
+    <id>https://devcenter..virtengine.com.io{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
     <author>
       <name>VirtEngine - Development Center</name>

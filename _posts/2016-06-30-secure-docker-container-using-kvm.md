@@ -116,4 +116,4 @@ To list the running hypercontainers
 
 These are the very simple steps to successfully launch a docker container in a secure isolated space.
 
-Again if you have a lot os server rack, we have the solution. Contact us @info@megam.io
+Again if you have a lot os server rack, we have the solution. Contact us @ hello@virtengine.com
